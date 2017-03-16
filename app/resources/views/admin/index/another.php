@@ -1,0 +1,1 @@
+another partial <?= $param ?>
